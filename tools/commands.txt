@@ -1,0 +1,2 @@
+main.py --model-name=UAVHideNet --config=configs/uav_hidenet/cod_uav_hidenet.py --datasets-info ./configs/_base_/dataset/dataset_configs.json
+main.py --model-name=UAVHideNet_CK --config=configs/uav_hidenet/cod_uav_hidenet.py --datasets-info ./configs/_base_/dataset/dataset_configs.json

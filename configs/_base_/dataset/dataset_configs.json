@@ -1,0 +1,24 @@
+{
+  "msi_cod_tr": {
+    "root": "/path/to/JJD15k/train_with_val/",
+    "image": {
+      "path": "images",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "masks",
+      "suffix": ".png"
+    }
+  },
+  "msi_cod_te": {
+    "root": "/path/to/JJD15k/test/",
+    "image": {
+      "path": "images",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "masks",
+      "suffix": ".png"
+    }
+  }
+}
