@@ -123,7 +123,7 @@ python main.py \
 ```bibtex
 @article{UAVCODNet,
   title   = {无人机视角下隐藏目标检测},
-  author  = {鄢杰斌 and 蒋佳 and 李昱翰 and 祝文涛 and 侯敬文 and 姜文晖 and 方玉明},
+  author  = {鄢杰斌，蒋佳，李昱翰，祝文涛，侯敬文，姜文晖，方玉明},
   journal = {待补充},
   year    = {2026}
 }
