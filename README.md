@@ -6,7 +6,9 @@ Code for UAV-COD-Net (无人机视角下隐藏目标检测)。
 
 ## 预训练权重与结果
 
-预训练模型权重和完整实验结果已发布在 [v0.0.1 Release](https://github.com/Liyuhan1666666/UAV-COD-Net/releases/tag/v0.0.1)。
+| Weights                                                                                                                           | Results                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| [GitHub Release Link](https://github.com/Liyuhan1666666/UAV-COD-Net/releases/tag/v0.0.1/checkpoints_final.zip)        | [GitHub Release Link](https://github.com/Liyuhan1666666/UAV-COD-Net/releases/tag/v0.0.1/Results.zip) |
 
 ## 环境要求
 
@@ -24,7 +26,7 @@ pip install -r requirements.txt
 
 ## 数据集准备
 
-数据集下载链接：**待补充**
+数据集下载链接：https://pan.quark.cn/s/254e8421d707?pwd=mfRi
 
 下载并解压数据集后，请保证训练集与测试集分别包含以下目录：
 
@@ -67,7 +69,7 @@ python main.py \
 
 ## 测试
 
-从 [v0.0.1 Release](https://github.com/Liyuhan1666666/UAV-COD-Net/releases/tag/v0.0.1) 下载模型权重后，执行：
+在项目根目录执行：
 
 ```bash
 python main.py \
